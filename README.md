@@ -1,4 +1,4 @@
-# Personal Finance Agent
+# Personal Financial Agent
 
 A multi-agent AI system that analyzes your bank statements, builds a personalized savings plan, detects financial risks, and answers your money questions through a conversational web interface.
 
