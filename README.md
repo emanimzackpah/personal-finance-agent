@@ -1,6 +1,12 @@
 # Personal Finance Agent
 
 A multi-agent AI system that analyzes your bank statements, builds a personalized savings plan, detects financial risks, and answers your money questions through a conversational web interface.
+
+# Problem
+Many individuals struggle to interpret financial statements and understand what financial metrics indicate about their financial health.
+
+# Solution
+This project uses agentic AI to guide users through financial statement analysis by answering questions, identifying trends, and providing educational insights that support better financial decision-making.
  
 **Stack:** Python · Streamlit · Google Gemini 2.5 Flash · pdfplumber · PyMuPDF · Pandas
 
